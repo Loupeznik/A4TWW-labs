@@ -1,0 +1,13 @@
+#card {
+    margin-top: 20px;
+}
+
+.card-form {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.half {
+    width: 50%;
+}
